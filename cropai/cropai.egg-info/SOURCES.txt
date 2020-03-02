@@ -1,0 +1,8 @@
+setup.py
+cropai/__init__.py
+cropai/cropai.py
+cropai.egg-info/PKG-INFO
+cropai.egg-info/SOURCES.txt
+cropai.egg-info/dependency_links.txt
+cropai.egg-info/not-zip-safe
+cropai.egg-info/top_level.txt
